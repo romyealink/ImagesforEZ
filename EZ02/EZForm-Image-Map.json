@@ -1,0 +1,27 @@
+{
+  "form_name": "Black Dragon Supplies Group Buy",
+  "form_url": "https://ezformz.net/f/black-dragon-supplies-group-buy-ksqhm9",
+  "products": [
+    {
+      "product": "ARA-290 30 mg",
+      "filename": "ARA-290-30mg.png",
+      "image_url": "https://raw.githubusercontent.com/romyealink/ImagesforEZ/main/EZ02/ARA-290-30mg.png",
+      "sha": "ad69af68161f47cb20b7891908b53058266f5c6f",
+      "source_filename": "72835c56-cd77-4239-99f1-9568c4730d43(1).png"
+    },
+    {
+      "product": "KPV 50 mg",
+      "filename": "KPV-50mg.png",
+      "image_url": "https://raw.githubusercontent.com/romyealink/ImagesforEZ/main/EZ02/KPV-50mg.png",
+      "sha": "488e380aab3309ec6c3ea19322d87e1cbfef57a7",
+      "source_filename": "20ecb7b9-7bfd-4534-bd46-eed57324f478(1).png"
+    },
+    {
+      "product": "Cartalax 20 mg",
+      "filename": "Cartalax-20mg.png",
+      "image_url": "https://raw.githubusercontent.com/romyealink/ImagesforEZ/main/EZ02/Cartalax-20mg.png",
+      "sha": "681b6a6441d7aaed06f281cb30cb3bad26eb627c",
+      "source_filename": "b51ba228-ca0f-4029-a82a-6d212f130f91(1).png"
+    }
+  ]
+}
