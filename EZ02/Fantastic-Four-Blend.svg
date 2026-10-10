@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+<defs>
+  <linearGradient id="cap" x1="0" x2="1"><stop stop-color="#6d00ff"/><stop offset=".5" stop-color="#cc36ff"/><stop offset="1" stop-color="#2c0f61"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".95"/><stop offset=".45" stop-color="#dff3ff" stop-opacity=".55"/><stop offset="1" stop-color="#ffffff" stop-opacity=".9"/></linearGradient>
+  <linearGradient id="title" x1="0" x2="1"><stop stop-color="#f8f8ff"/><stop offset=".45" stop-color="#d83cff"/><stop offset="1" stop-color="#22c8ff"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="800" height="1000" fill="white"/>
+<g transform="translate(115 40)">
+  <rect x="120" y="0" width="330" height="95" rx="28" fill="url(#cap)" stroke="#19052e" stroke-width="6"/>
+  <rect x="145" y="78" width="280" height="58" rx="12" fill="#c8c8cf" stroke="#555" stroke-width="5"/>
+  <path d="M170 128 H400 L430 185 V830 Q430 900 365 920 H205 Q140 900 140 830 V185Z" fill="url(#glass)" stroke="#6f7480" stroke-width="6"/>
+  <rect x="155" y="265" width="260" height="510" rx="18" fill="#08040f" stroke="#6f23ff" stroke-width="4"/>
+  <path d="M172 290 C250 235 356 250 403 310 C352 280 302 296 276 343 C328 323 368 344 385 388 C340 364 306 366 274 399 C229 448 210 506 181 541 C198 465 194 402 222 352 C190 355 171 349 160 335Z" fill="#22103b" stroke="#8e38ff" stroke-width="5" filter="url(#glow)"/>
+  <circle cx="362" cy="318" r="9" fill="#ff4dff" filter="url(#glow)"/>
+  <text x="285" y="300" text-anchor="middle" font-family="Arial Black,Arial" font-size="26" fill="#f5c85c">BLACK DRAGON</text>
+  <text x="285" y="326" text-anchor="middle" font-family="Arial" font-size="14" fill="#f5c85c" letter-spacing="4">SUPPLIES</text>
+  <text x="285" y="410" text-anchor="middle" font-family="Arial Black,Arial" font-size="44" fill="url(#title)">THE</text>
+  <text x="285" y="470" text-anchor="middle" font-family="Arial Black,Arial" font-size="54" fill="url(#title)">FANTASTIC</text>
+  <text x="285" y="535" text-anchor="middle" font-family="Arial Black,Arial" font-size="72" fill="url(#title)">FOUR</text>
+  <rect x="175" y="556" width="220" height="38" rx="10" fill="#0b1830" stroke="#22c8ff" stroke-width="2"/>
+  <text x="285" y="582" text-anchor="middle" font-family="Arial Black,Arial" font-size="19" fill="#7ce7ff">PEPTIDE BLEND</text>
+  <g font-family="Arial Black,Arial" font-size="20" text-anchor="middle">
+    <rect x="170" y="618" width="108" height="72" rx="12" fill="#190923" stroke="#be38ff" stroke-width="3"/>
+    <text x="224" y="648" fill="white">BPC-157</text><text x="224" y="676" fill="#e7d6ff">12 MG</text>
+    <rect x="292" y="618" width="108" height="72" rx="12" fill="#051628" stroke="#2ea7ff" stroke-width="3"/>
+    <text x="346" y="648" fill="white">TB-500</text><text x="346" y="676" fill="#d6efff">12 MG</text>
+    <rect x="170" y="704" width="108" height="72" rx="12" fill="#25070c" stroke="#ff3f58" stroke-width="3"/>
+    <text x="224" y="734" fill="white">KPV</text><text x="224" y="762" fill="#ffd7dd">12 MG</text>
+    <rect x="292" y="704" width="108" height="72" rx="12" fill="#261603" stroke="#ffae28" stroke-width="3"/>
+    <text x="346" y="734" fill="white">CARTALAX</text><text x="346" y="762" fill="#ffe0a8">24 MG</text>
+  </g>
+  <text x="285" y="808" text-anchor="middle" font-family="Arial Black,Arial" font-size="18" fill="#111">RESEARCH USE ONLY</text>
+  <text x="285" y="836" text-anchor="middle" font-family="Arial" font-size="15" fill="#222">NOT FOR HUMAN CONSUMPTION</text>
+</g>
+</svg>
