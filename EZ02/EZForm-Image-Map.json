@@ -22,6 +22,19 @@
       "image_url": "https://raw.githubusercontent.com/romyealink/ImagesforEZ/main/EZ02/Cartalax-20mg.png",
       "sha": "681b6a6441d7aaed06f281cb30cb3bad26eb627c",
       "source_filename": "b51ba228-ca0f-4029-a82a-6d212f130f91(1).png"
+    },
+    {
+      "product": "Fantastic Four Blend",
+      "filename": "Fantastic-Four-4-Headed-Dragon.webp",
+      "image_url": "https://raw.githubusercontent.com/romyealink/ImagesforEZ/main/EZ02/Fantastic-Four-4-Headed-Dragon.webp",
+      "sha": "4b83c133f67d7ad918f55b25bd257b3aac9e0f65",
+      "source_filename": "fantastic_four_dragon_blend_vial.png",
+      "blend": {
+        "BPC-157": "12 mg",
+        "TB-500": "12 mg",
+        "KPV": "12 mg",
+        "Cartalax": "24 mg"
+      }
     }
   ]
 }
